@@ -1,2 +1,2 @@
-# general-template
-general template repo for any python project
+# Bark Classification
+Bark classifier building
