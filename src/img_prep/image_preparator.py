@@ -1,4 +1,4 @@
-
+import base64
 
 class Convert:
     def __init__(self):
